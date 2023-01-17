@@ -5,7 +5,7 @@ called `answers.md`. And yes! our humor is dry 🏜
 
 ## Introductions
 
-- Who are you? What do you like building?
+- Who are you? What do you like building? I am Vengatesh R.
 - Do you own a PC and have a good internet
  connection? Let's hear those specs 💪!
 - Your stackoverflow, linkedin, personal site.
@@ -29,7 +29,7 @@ get extra 🍪
 
 - Find the longest word in a string.
   - Given `The quick brown fox jumped over the lazy dog` is the input to your function, it should return `jumped`.
-
+var a="The quick brown fox jumped over the lazy dog"
 - Repeat a string `n` times.
   - If `abc` and `3` are the arguments to your function, it shoudl return `abcabcabc`
   var a="abc"
@@ -39,6 +39,8 @@ get extra 🍪
 - Remove duplicates in an array
   - If `[1, 20, 3, 1, 3, 3]` is the input to your
   function, it should return `[1, 20, 3]`
+  var a=[1,20,3,1,3,3]
+  console.log(...new Set(a))
 
 - Remove falsy values
   - If `[42, "everything", "", 2, false, "everything"]` is the input to your function, it should return `[42, "everything", 2, "everything"]`
