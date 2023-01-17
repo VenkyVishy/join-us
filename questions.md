@@ -13,13 +13,13 @@ Anything you'd want us to see.
 - What programming languages have you messed around with?
 - What sort of tooling is on your machine?
   - Programming languages, compilers, runtimes etc
-  - What OS do you run?
+  - What OS do you run? Windows 11
   - What editor/IDE do you use?
 - Are you more into front-end or back-end? (If you're
 into web development).
 - Are you interested in AI/ML, Systems Programming
 or anything outside your current domain.
-- What are you learning now?
+- What are you learning now? 
 
 ## Let's hack!
 
