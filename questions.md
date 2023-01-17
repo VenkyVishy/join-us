@@ -32,6 +32,9 @@ get extra 🍪
 
 - Repeat a string `n` times.
   - If `abc` and `3` are the arguments to your function, it shoudl return `abcabcabc`
+  var a="abc"
+  var n=3
+  console.log(a.repeat(n))
 
 - Remove duplicates in an array
   - If `[1, 20, 3, 1, 3, 3]` is the input to your
